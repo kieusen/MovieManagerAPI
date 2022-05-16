@@ -1,0 +1,101 @@
+[
+  {
+    "Name": "Tiên Hắc Ám",
+    "ImageUrl": "movie-1.jpg",
+    "Description": "Tiên hắc ám là bộ phim phiêu lưu viễn tưởng, thần tiên năm 2014 được đạo diễn bởi Robert Stromberg và sản xuất bởi Walt Disney Pictures. Kịch bản được Linda Woolverton viết dựa theo bộ phim hoạt hình kinh điển Người đẹp ngủ trong rừng",
+    "Price": 50000,
+    "CinemaId": 1,
+    "ProducerId": 3,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Nữ Thần Chiến Binh",
+    "ImageUrl": "movie-2.jpg",
+    "Description": "Wonder Woman: Nữ thần chiến binh (tên gốc tiếng Anh: Wonder Woman) là một bộ phim siêu anh hùng của Mỹ dựa trên nhân vật cùng tên của DC Comics.",
+    "Price": 100000,
+    "CinemaId": 2,
+    "ProducerId": 1,
+    "CategoryId": 1
+  },
+  {
+    "Name": "Cục Nợ Hoá Cục Cưng",
+    "ImageUrl": "movie-3.jpg",
+    "Description": "Là phim thương mại dành cho khán giả tuổi thiếu niên trở lên, Cục nợ hóa cục cưng không thực sự đi vào những góc tăm tối của chủ đề mà truyền tải vấn đề xã hội theo hướng mềm mại, chấm phá. Phim kể về Du Seok (Sung Dong Il) và Jong Bae (Kim Hiewon), hai người đàn ông làm nghề đòi nợ thuê nhưng có tính thương người.",
+    "Price": 90000,
+    "CinemaId": 3,
+    "ProducerId": 2,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Kẻ Săn Mộ",
+    "ImageUrl": "movie-4.jpg",
+    "Description": "Kẻ săn mộ - Collectors (2020) là bộ phim thuộc thể loại kịch tính của Hàn Quốc do đạo diễn Park Jung-bae chịu trách nhiệm chỉ đạo và Hwang Dong-hyuk chịu trách nhiệm sản xuất. Bộ phim có sự tham gia của các diễn viên Lee Je-hoon, Jo Woo-jin, Shin Hye-sun và Im Won-hee.",
+    "Price": 70000,
+    "CinemaId": 1,
+    "ProducerId": 1,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Lãng Khách Kenshin: Hồi Kết",
+    "ImageUrl": "movie-5.jpg",
+    "Description": "Lãng Khách Kenshin: Hồi Kết - Rurouni Kenshin: The Final (2021) là bộ phim thuộc thể loại hành động chuyển thể từ manga của đạo diễn Keishi Otomo.",
+    "Price": 80000,
+    "CinemaId": 2,
+    "ProducerId": 1,
+    "CategoryId": 3
+  },
+  {
+    "Name": "Thám Tử Lừng Danh Conan: Chứng Cứ Đỏ",
+    "ImageUrl": "movie-6.jpg",
+    "Description": "Thám tử lừng danh Conan: Chứng cứ đỏ là phim điện ảnh anime trinh thám của Nhật Bản năm 2019 do Yamamoto Yasuichiro đạo diễn và Miyashita Junichi đảm nhiệm phần kịch bản. Tác phẩm do hãng TMS Entertainment chịu trách nhiệm sản xuất và hãng Toho đảm nhiệm vai trò phân phối.",
+    "Price": 60000,
+    "CinemaId": 3,
+    "ProducerId": 2,
+    "CategoryId": 4
+  },
+    {
+    "Name": "Tế Công: Hàng Long Giáng Thế",
+    "ImageUrl": "movie-7.jpg",
+    "Description": "Tế Công: Hàng Long Giáng Thế - Master Ji Gong (2021) là bộ phim thuộc thể loại hoạt hình, cổ trang, thần thoại của Trung Quốc",
+    "Price": 70000,
+    "CinemaId": 1,
+    "ProducerId": 1,
+    "CategoryId": 2
+  },
+    {
+    "Name": "Chủng Tộc Bất Tử",
+    "ImageUrl": "movie-8.jpg",
+    "Description": "Chủng tộc bất tử là một bộ phim siêu anh hùng của Mỹ ra mắt trong năm 2021. Tác phẩm được dựa trên chủng loài Eternals của truyện tranh Marvel. Đây là phim thứ 26 của Vũ trụ Điện ảnh Marvel.",
+    "Price": 70000,
+    "CinemaId": 1,
+    "ProducerId": 1,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Nhiệm Vụ: Khả Thi",
+    "ImageUrl": "movie-9.jpg",
+    "Description": "Đây bộ phim thuộc thể loại hài hước, hành động của Hàn Quốc do Kim Hyung Joo viết kịch bản đồng đạo diễn. Dựa trên loạt phim Mission: Impossible của Bruce Geller, tác phẩm có sự tham gia của diễn viên Lee Sun-bin và Kim Young-kwang.",
+    "Price": 70000,
+    "CinemaId": 1,
+    "ProducerId": 1,
+    "CategoryId": 2
+  },
+    {
+    "Name": "Giải Cứu Guy",
+    "ImageUrl": "movie-10.jpg",
+    "Description": "Giải cứu Guy là phim điện ảnh Mỹ thuộc thể loại hài hành động xen lẫn khoa học viễn tưởng ra mắt năm 2021. Phim do Shawn Levy đạo diễn, bên cạnh hai biên kịch Matt Lieberman và Zak Penn. Các diễn viên trong phim gồm có Ryan Reynolds, Jodie Comer, Lil Rel Howery, Utkarsh Ambudkar, Joe Keery và Taika Waititi",
+    "Price": 70000,
+    "CinemaId": 1,
+    "ProducerId": 1,
+    "CategoryId": 2
+  },
+  {
+    "Name": "Dòng Người Tấp Nập",
+    "ImageUrl": "movie-11.jpg",
+    "Description": "Dòng người tấp nập - Endgame (2021) là bộ phim thuộc thể loại hành động của Trung Quốc được phát hành vào dịp tết Nguyên Đán 2021 do đạo diễn Rao Xiaozhi chịu trách nhiệm chỉ đạo đồng viết kịch bản và đạo diễn. Tác phẩm do Lưu Đức Hoa chịu trách nhiệm sản xuất và đóng vai nam chính",
+    "Price": 70000,
+    "CinemaId": 1,
+    "ProducerId": 1,
+    "CategoryId": 2
+  }
+]

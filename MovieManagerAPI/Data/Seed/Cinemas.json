@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Cinema 1",
+    "ImageUrl": "cinema-1.jpeg",
+    "Description": "This is the description of the first cinema"
+  },
+  {
+    "Name": "Cinema 2",
+    "ImageUrl": "cinema-2.jpeg",
+    "Description": "This is the description of the second cinema"
+  },
+  {
+    "Name": "Cinema 3",
+    "ImageUrl": "cinema-3.jpeg",
+    "Description": "This is the description of the cinema 3"
+  },
+  {
+    "Name": "Cinema 4",
+    "ImageUrl": "cinema-4.jpeg",
+    "Description": "This is the description of the cinema 4"
+  },
+  {
+    "Name": "Cinema 5",
+    "ImageUrl": "cinema-5.jpeg",
+    "Description": "This is the description of the cinema 5"
+  }
+]

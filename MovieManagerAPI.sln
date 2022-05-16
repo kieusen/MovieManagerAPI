@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieManagerAPI", "MovieManagerAPI\MovieManagerAPI.csproj", "{50149AA4-4D28-4C54-83E0-18B4853647EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50149AA4-4D28-4C54-83E0-18B4853647EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50149AA4-4D28-4C54-83E0-18B4853647EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50149AA4-4D28-4C54-83E0-18B4853647EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50149AA4-4D28-4C54-83E0-18B4853647EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57FC3C68-2AD8-4E9C-BFCA-0D4F26CE8CB6}
+	EndGlobalSection
+EndGlobal

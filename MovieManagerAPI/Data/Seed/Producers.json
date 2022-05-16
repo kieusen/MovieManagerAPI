@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Producer 1",
+    "ImageUrl": "producer-1.jpg",
+    "Bio": "This is the Bio of the first producer"
+  },
+  {
+    "Name": "Producer 2",
+    "ImageUrl": "producer-2.jpg",
+    "Bio": "This is the Bio of the second producer"
+  },
+  {
+    "Name": "Producer 3",
+    "ImageUrl": "producer-3.jpg",
+    "Bio": "This is the Bio of the producer 3"
+  },
+  {
+    "Name": "Producer 4",
+    "ImageUrl": "producer-4.jpg",
+    "Bio": "This is the Bio of the producer 4"
+  },
+  {
+    "Name": "Producer 5",
+    "ImageUrl": "producer-5.jpg",
+    "Bio": "This is the Bio of the producer 5"
+  }
+]

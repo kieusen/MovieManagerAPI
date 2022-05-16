@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Actor 1",
+    "ImageUrl": "actor-1.jpg",
+    "Bio": "This is the Bio of the first actor"
+  },
+  {
+    "Name": "Actor 2",
+    "ImageUrl": "actor-2.jpg",
+    "Bio": "This is the Bio of the second actor"
+  },
+  {
+    "Name": "Actor 3",
+    "ImageUrl": "actor-3.jpg",
+    "Bio": "This is the Bio of the actor 3"
+  },
+  {
+    "Name": "Actor 4",
+    "ImageUrl": "actor-4.jpg",
+    "Bio": "This is the Bio of the actor 4"
+  },
+  {
+    "Name": "Actor 5",
+    "ImageUrl": "actor-5.jpg",
+    "Bio": "This is the Bio of the actor 5"
+  },
+  {
+    "Name": "Actor 6",
+    "ImageUrl": "actor-6.jpg",
+    "Bio": "This is the Bio of the actor 6"
+  },
+  {
+    "Name": "Actor 7",
+    "ImageUrl": "actor-7.jpg",
+    "Bio": "This is the Bio of the actor 7"
+  }
+]
